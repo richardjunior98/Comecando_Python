@@ -1,4 +1,5 @@
-# Aula do canal "O Programador"
+# Dominando Python para Análise de Dados: Iniciantes, Este é para Você!
 
-Dominando Python para Análise de Dados: Iniciantes, Este é para Você!
-https://youtu.be/pjKUzYaG9sQ?si=wQkvZCCOuYtvh21C
+Vídeo do canal "O Programador"
+
+Link do vídeo: https://youtu.be/pjKUzYaG9sQ?si=wQkvZCCOuYtvh21C
